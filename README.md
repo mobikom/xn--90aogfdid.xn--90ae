@@ -1,2 +1,2 @@
-# xn--90aogfdid.xn--90ae
-мобиком.бг
+# мобиком.бг
+https://xn--90aogfdid.xn--90ae/
