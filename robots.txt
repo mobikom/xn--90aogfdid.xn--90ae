@@ -1,5 +1,2 @@
 
-User-agent: * 
-Disallow:
-
-Sitemap: https://мобиком.бг/sitemap.xml
+Sitemap: https://xn--90aogfdid.xn--90ae/sitemap.xml
