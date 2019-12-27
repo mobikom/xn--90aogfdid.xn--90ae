@@ -10,10 +10,12 @@ IDNA convention: To prevent non-international domain names containing hyphens fr
 Using python you could try encode('idna') to find what characters to use, for example:
 
 ...
+
 $ python
 >>> x = u'bücher.tld'
 >>> x.encode('idna')
 b'xn--bcher-kva.tld'
 >>> x.encode('idna').decode('idna')
 'bücher.tld'
+
 ...
