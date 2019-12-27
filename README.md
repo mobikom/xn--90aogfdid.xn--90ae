@@ -8,6 +8,7 @@ https://xn--90aogfdid.xn--90ae/
 IDNA convention: To prevent non-international domain names containing hyphens from being accidentally interpreted as Punycode, international domain name Punycode sequences have a so-called ASCII Compatible Encoding (ACE) prefix, "xn--", prepended.[2] Thus the domain name "bücher.tld" would be represented in ASCII as "xn--bcher-kva.tld".
 
 Using python you could try encode('idna') to find what characters to use, for example:
+
 ...
 $ python
 >>> x = u'bücher.tld'
