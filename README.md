@@ -1,5 +1,5 @@
 # мобиком.бг
-https://xn--90aogfdid.xn--90ae/
+https://www.xn--90aogfdid.xn--90ae/
 
 ## IDNA encoding or Punycode domains
 
